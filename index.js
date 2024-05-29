@@ -17,6 +17,6 @@ myServer.listen(8000,()=>{ console.log('server is running on port 8000')})//8000
 //to run this server we need to call listen method on server object
 // here server object is const myServer
 
-// if we create any changes it wont show on the server we need to kill the server and push again
+// if we create any changes it wont show on the server we need to kill
 
 
